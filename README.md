@@ -18,4 +18,3 @@ A lightweight iOS application built using UIKit that allows users to explore man
 - UIKit  
 - URLSession  
 - Auto Layout  
----
